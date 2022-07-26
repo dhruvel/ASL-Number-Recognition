@@ -10,9 +10,5 @@ ASL (American Sign Language) is the most used sign language. A huge portion of t
 
 ### Dataset
 
-The dataset used can be found on 
-
-[this](https://github.com/ardamavi/Sign-Language-Digits-Dataset)
-
-github link. It is a collection of images of the ASL numbers. I further converted these images into black and white in order to use them with my code.
+The dataset used can be found on [this](https://github.com/ardamavi/Sign-Language-Digits-Dataset) github link. It is a collection of images of the ASL numbers. I further converted these images into black and white in order to use them with my code.
 
