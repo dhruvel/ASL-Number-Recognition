@@ -1,4 +1,4 @@
-# ASL Number Recognition: CP-468
+# ASL Number Recognition: CP-468 AI Final Project
 
 The official repository of the ASL Number Recognition for the CP-468 final project. The following *Readme* file gives an overview about this project.
 
